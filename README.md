@@ -4,7 +4,7 @@ I'm a Master of Financial Engineering student at the **University of Illinois Ur
 
 I specialize in building high-performance data pipelines, backtesting systems, and AI-driven applications for quantitative finance.
 
-[![Devminda's GitHub stats](https://github-readme-stats.vercel.app/api?username=devminda)](https://github.com/devminda/github-readme-stats)
+
 ---
 
 ### 🚀 What I'm Currently Working On
@@ -45,3 +45,5 @@ My work and research live at the intersection of technology and trading. I am cu
 
 * **LinkedIn:** [www.linkedin.com/in/devminda-abeynayake](https://www.linkedin.com/in/devminda-abeynayake)
 * **Email:** [ada16@illinois.edu](mailto:ada16@illinois.edu), [devmindaabey@gmail.com](mailto:devmindaabey@gmail.com)
+* **PyData Sri Lanka:** [YouTube Channel](https://www.youtube.com/channel/UCRi2hYUzz5cPOMPP8jxqjZQ)
+* **Kandy Talks** [YouTube Channel](https://www.youtube.com/watch?v=aBbyPJ_twCc&t=672s)
