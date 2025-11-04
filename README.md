@@ -27,6 +27,19 @@ My work and research live at the intersection of technology and trading. I am cu
 
 ---
 
+### 📜 Publications & Technical Write-Ups
+
+* **A Stylometric Approach for Reliable News Detection Using Machine Learning Methods**
+    * Published at the *22nd International Conference on Advances in ICT for Emerging Regions (ICTer)*, 2023.
+    * **[View on IEEE Xplore]** (https://doi.org/10.1109/ICTer58063.2022.10024096)
+
+* **Leveraging Sentiment Analysis for Computerised Trading**
+    * A technical article detailing an LSTM-based trading strategy combining technical indicators and FinBERT sentiment scores.
+    * **[Read the Article]** (https://www.acuitykp.com/market-guide/leveraging-sentiment-analysis-computerised-trading/)
+    * **[View on ResearchGate]** (https://doi.org/10.13140/RG.2.2.28536.15367)
+
+---
+
 ### 🔗 Let's Connect
 
 * **LinkedIn:** [www.linkedin.com/in/devminda-abeynayake](https://www.linkedin.com/in/devminda-abeynayake)
