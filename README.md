@@ -4,6 +4,7 @@ I'm a Master of Financial Engineering student at the **University of Illinois Ur
 
 I specialize in building high-performance data pipelines, backtesting systems, and AI-driven applications for quantitative finance.
 
+[![Devminda's GitHub stats](https://github-readme-stats.vercel.app/api?username=devminda)](https://github.com/devminda/github-readme-stats)
 ---
 
 ### 🚀 What I'm Currently Working On
