@@ -7,17 +7,17 @@ I specialize in building high-performance data pipelines, backtesting systems, a
 
 ---
 
-### 🚀 What I'm Currently Working On
+### What I'm Currently Working On
 
 My work and research live at the intersection of technology and trading. I am currently focused on:
 
-* **📈 Machine/Deep Learning in Finance:** Applying Deep Learning models (TensorFlow/PyTorch) and time-series analysis to forecast market movements and model risk.
-* **🤖 AI Agentic Workflows:** Building autonomous agents with LangChain and LangGraph to perform complex financial research and data analysis (like the text-to-SQL framework I built professionally).
-* **📊 Trading Strategy Backtesting:** Developing and vector-testing event-driven trading strategies in Python and C++ to identify alpha.
+* ** Machine/Deep Learning in Finance:** Applying Deep Learning models (TensorFlow/PyTorch) and time-series analysis to forecast market movements and model risk.
+* ** AI Agentic Workflows:** Building autonomous agents with LangChain and LangGraph to perform complex financial research and data analysis (like the text-to-SQL framework I built professionally).
+* ** Trading Strategy Backtesting:** Developing and vector-testing event-driven trading strategies in Python and C++ to identify alpha.
 
 ---
 
-### 💻 My Core Toolkit
+### My Core Toolkit
 
 | Category | Technologies |
 | :--- | :--- |
@@ -28,7 +28,7 @@ My work and research live at the intersection of technology and trading. I am cu
 
 ---
 
-### 📜 Publications & Technical Write-Ups
+### Publications & Technical Write-Ups
 
 * **A Stylometric Approach for Reliable News Detection Using Machine Learning Methods**
     * Published at the *22nd International Conference on Advances in ICT for Emerging Regions (ICTer)*, 2023.
@@ -41,7 +41,7 @@ My work and research live at the intersection of technology and trading. I am cu
 
 ---
 
-### 🔗 Let's Connect
+### Let's Connect
 
 * **LinkedIn:** [www.linkedin.com/in/devminda-abeynayake](https://www.linkedin.com/in/devminda-abeynayake)
 * **Email:** [ada16@illinois.edu](mailto:ada16@illinois.edu), [devmindaabey@gmail.com](mailto:devmindaabey@gmail.com)
