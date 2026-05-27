@@ -11,9 +11,9 @@ I specialize in building high-performance data pipelines, backtesting systems, a
 
 My work and research live at the intersection of technology and trading. I am currently focused on:
 
-* ** Machine/Deep Learning in Finance:** Applying Deep Learning models (TensorFlow/PyTorch) and time-series analysis to forecast market movements and model risk.
-* ** AI Agentic Workflows:** Building autonomous agents with LangChain and LangGraph to perform complex financial research and data analysis (like the text-to-SQL framework I built professionally).
-* ** Trading Strategy Backtesting:** Developing and vector-testing event-driven trading strategies in Python and C++ to identify alpha.
+* **Machine/Deep Learning in Finance:** Applying Deep Learning models (TensorFlow/PyTorch) and time-series analysis to forecast market movements and model risk.
+* **AI Agentic Workflows:** Building autonomous agents with LangChain and LangGraph to perform complex financial research and data analysis (like the text-to-SQL framework I built professionally).
+* **Trading Strategy Backtesting:** Developing and vector-testing event-driven trading strategies in Python and C++ to identify alpha.
 
 ---
 
