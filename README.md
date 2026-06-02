@@ -42,7 +42,7 @@ My work and research live at the intersection of technology and trading. I am cu
 ---
 
 ### Let's Connect
-
+* **Webite:** [www.devminda.com](https://devminda.com/)
 * **LinkedIn:** [www.linkedin.com/in/devminda-abeynayake](https://www.linkedin.com/in/devminda-abeynayake)
 * **Email:** [ada16@illinois.edu](mailto:ada16@illinois.edu), [devmindaabey@gmail.com](mailto:devmindaabey@gmail.com)
 * **PyData Sri Lanka:** [YouTube Channel](https://www.youtube.com/channel/UCRi2hYUzz5cPOMPP8jxqjZQ)
